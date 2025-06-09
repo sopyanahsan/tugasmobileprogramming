@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivWelcomeImage"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="Welcome Image"/>
+
+    <Button
+        android:id="@+id/btnStart"
+        android:text="Start telling"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#8EC1B7"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnShare"
+        android:text="Share app"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#E7973E"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnReview"
+        android:text="Leave a review"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#F9DC4C"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

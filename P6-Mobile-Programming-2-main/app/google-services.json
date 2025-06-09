@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007946597684",
+    "project_id": "p6-siti-julianti",
+    "storage_bucket": "p6-siti-julianti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007946597684:android:11a35f734486d26c4a5161",
+        "android_client_info": {
+          "package_name": "com.example.p6_siti_julianti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YPrGInipyZLfAKobLRQjvGjWKZy79oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
