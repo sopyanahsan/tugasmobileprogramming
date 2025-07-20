@@ -1,0 +1,2 @@
+rootProject.name = "p5_sitijulianti"
+include ':app'

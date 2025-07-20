@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FragmentDzikir">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/back_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?android:attr/windowBackground"
+        android:elevation="4dp"
+        app:navigationIcon="@drawable/ic_baseline_arrow_back_24"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="@dimen/action_bar_size"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:id="@+id/txtJudul"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Membaca Ta'awudz"
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:textColor="#000"
+                    android:layout_weight="1" />
+
+                <TextView
+                    android:id="@+id/txtJumlahBacaan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Dibaca 3x"
+                    android:textSize="16sp"
+                    android:textColor="#666" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:paddingVertical="8dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:background="#F2F2F2">
+
+                <ImageButton
+                    android:id="@+id/btnPlay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="8dp"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="Play Audio"
+                    android:src="@drawable/ic_media_play" />
+
+                <ImageButton
+                    android:id="@+id/btnZoom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="8dp"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="Zoom Text"
+                    android:src="@drawable/ic_baseline_zoom" />
+
+                <ImageButton
+                    android:id="@+id/btnToggleLatin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="8dp"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="Toggle Latin"
+                    android:src="@drawable/ic_baseline_preview" />
+
+                <ImageButton
+                    android:id="@+id/btnCopy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="8dp"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="Copy Text"
+                    android:src="@drawable/ic_baseline_copy" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtArab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="12dp"
+                android:text="Arabic Text"
+                android:textColor="#000"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txtLatin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:lineSpacingExtra="4dp"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/txtArti"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#444"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:lineSpacingExtra="4dp" />
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/btnre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="27dp"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/ic_baseline_refresh" />
+
+                <TextView
+                    android:id="@+id/txtCounter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="12dp"
+                    android:text="0"
+                    android:textSize="20sp" />
+
+                <ImageButton
+                    android:id="@+id/btnTambah"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/ic_baseline_add" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

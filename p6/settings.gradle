@@ -1,0 +1,3 @@
+rootProject.name = "P6_siti_julianti"
+include ':app'
+include ':audiovisualizer'

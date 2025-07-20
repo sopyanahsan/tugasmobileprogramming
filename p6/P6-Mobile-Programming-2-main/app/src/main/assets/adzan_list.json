@@ -1,0 +1,408 @@
+[
+  {
+    "country": "UEA",
+    "title": "Adzan Uni Emirat Arab",
+    "flag": "uea",
+    "audio": "adzan_uea",
+    "lyrics": [
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 0
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 9000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 20000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 28000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 38000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 47000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 57000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 65000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 74000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 80000
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 89000
+      },
+      {
+        "arab": "لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "La ilaha illallah",
+        "arti": "Tiada Tuhan selain Allah",
+        "timestamp": 96000
+      }
+    ]
+  },
+  {
+    "country": "Mekkah",
+    "title": "Adzan Mekkah",
+    "flag": "arab",
+    "audio": "adzan_mekkah",
+    "lyrics": [
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 0
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 14000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 29000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 46000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 68000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 84000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 104000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 122000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 143000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 159000
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 180000
+      },
+      {
+        "arab": "لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "La ilaha illallah",
+        "arti": "Tiada Tuhan selain Allah",
+        "timestamp": 189000
+      }
+    ]
+  },
+  {
+    "country": "Madinah",
+    "title": "Adzan Subuh Madinah",
+    "flag": "arab",
+    "audio": "adzan_madinah",
+    "lyrics": [
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 0
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 20000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 43000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 60000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 85000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 110000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 133000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 150000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 170000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 193000
+      },
+      {
+        "arab": "ااَلصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ ، ِ",
+        "latin": "Ash-Shalaatu khairum-minannaum",
+        "arti": "Sesungguhnya sudah hampir mengerjakan sholat",
+        "timestamp": 213000
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 253000
+      },
+      {
+        "arab": "لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "La ilaha illallah",
+        "arti": "Tiada Tuhan selain Allah",
+        "timestamp": 266000
+      }
+    ]
+  },
+  {
+    "country": "Hawaii",
+    "title": "Adzan Hawaii",
+    "flag": "hawai",
+    "audio": "adzan_hawai",
+    "lyrics": [
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 0
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 19340
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 38670
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 58010
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 77340
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 96680
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 116010
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 135340
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 154680
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 174020
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 193350
+      },
+      {
+        "arab": "لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "La ilaha illallah",
+        "arti": "Tiada Tuhan selain Allah",
+        "timestamp": 212690
+      }
+    ]
+  },
+  {
+    "country": "Turkey",
+    "title": "Adzan Turkey",
+    "flag": "turkey",
+    "audio": "adzan_turkey",
+    "lyrics": [
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 0
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 6000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 26000
+      },
+      {
+        "arab": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "Ashhadu an la ilaha illallah",
+        "arti": "Aku bersaksi bahwa tiada Tuhan selain Allah",
+        "timestamp": 40000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 57000
+      },
+      {
+        "arab": "أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللّٰهِ",
+        "latin": "Ashhadu anna Muhammadan rasulullah",
+        "arti": "Aku bersaksi bahwa Muhammad adalah utusan Allah",
+        "timestamp": 73000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 100000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلصَّلَاةِ",
+        "latin": "Hayya 'ala as-salah",
+        "arti": "Marilah menunaikan shalat",
+        "timestamp": 119000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 148000
+      },
+      {
+        "arab": "حَيَّ عَلَى ٱلْفَلَاحِ",
+        "latin": "Hayya 'ala al-falah",
+        "arti": "Marilah menuju kemenangan",
+        "timestamp": 168000
+      },
+      {
+        "arab": "ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ",
+        "latin": "Allahu Akbar, Allahu Akbar",
+        "arti": "Allah Maha Besar, Allah Maha Besar",
+        "timestamp": 203000
+      },
+      {
+        "arab": "لَا إِلَٰهَ إِلَّا ٱللّٰهُ",
+        "latin": "La ilaha illallah",
+        "arti": "Tiada Tuhan selain Allah",
+        "timestamp": 213000
+      }
+    ]
+  }
+]
