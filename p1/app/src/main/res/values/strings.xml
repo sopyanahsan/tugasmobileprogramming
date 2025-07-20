@@ -1,1 +1,46 @@
+<<<<<<< HEAD
 þÿ
+=======
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="suhu_units">
+        <item>Celcius ke Fahrenheit</item>
+        <item>Celcius ke Kelvin</item>
+        <item>Celcius ke Reamur</item>
+        <item>Fahrenheit ke Celcius</item>
+        <item>Kelvin ke Celcius</item>
+        <item>Reamur ke Celcius</item>
+        <item>Fahrenheit ke Kelvin</item>
+        <item>Kelvin ke Fahrenheit</item>
+        <item>Reamur ke Fahrenheit</item>
+        <item>Fahrenheit ke Reamur</item>
+        <item>Kelvin ke Reamur</item>
+        <item>Reamur ke Kelvin</item>
+    </string-array>
+    <string-array name="massa_units">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Miligram</item>
+        <item>Pound</item>
+        <item>Ons</item>
+    </string-array>
+    <string-array name="luas_units">
+        <item>Kilometer Persegi</item>
+        <item>Hektare</item>
+        <item>Meter Persegi</item>
+        <item>Sentimeter Persegi</item>
+        <item>Mil Persegi</item>
+        <item>Acre</item>
+    </string-array>
+    <string-array name="jarak_units">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Sentimeter</item>
+        <item>Milimeter</item>
+        <item>Mil</item>
+        <item>Yard</item>
+        <item>Kaki</item>
+        <item>Inci</item>
+    </string-array>
+</resources>
+>>>>>>> fd5dfca6af59b34f4227bee990e32668514879c7

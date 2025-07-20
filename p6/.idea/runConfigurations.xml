@@ -3,6 +3,7 @@
   <component name="RunConfigurationProducerService">
     <option name="ignoredProducers">
       <set>
+<<<<<<< HEAD
         <option value="com.intellij.execution.junit.AbstractAllInDirectoryConfigurationProducer" />
         <option value="com.intellij.execution.junit.AllInPackageConfigurationProducer" />
         <option value="com.intellij.execution.junit.PatternConfigurationProducer" />
@@ -11,6 +12,9 @@
         <option value="com.intellij.execution.junit.testDiscovery.JUnitTestDiscoveryConfigurationProducer" />
         <option value="org.jetbrains.kotlin.idea.junit.KotlinJUnitRunConfigurationProducer" />
         <option value="org.jetbrains.kotlin.idea.junit.KotlinPatternConfigurationProducer" />
+=======
+        <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
+>>>>>>> fd5dfca6af59b34f4227bee990e32668514879c7
       </set>
     </option>
   </component>

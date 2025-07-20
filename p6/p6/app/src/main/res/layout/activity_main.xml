@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_light_background">
+
+    <RelativeLayout
+        android:id="@+id/Ll"
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:background="@drawable/bg2">
+
+
+        <TextView
+            android:id="@+id/tvJudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="35dp"
+            android:text="Adzan"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvArab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvJudul"
+            android:layout_marginTop="20dp"
+            android:text="ٱللّٰهُ أَكْبَرُ ٱللّٰهُ أَكْبَرُ"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/tvLatin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvArab"
+            android:text="Allahu Akbar, Allahu Akbar"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tvArti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvLatin"
+            android:layout_marginBottom="8dp"
+            android:text="Allah Maha Besar, Allah Maha Besar"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+
+        <com.gauravk.audiovisualizer.visualizer.WaveVisualizer
+            android:id="@+id/wave"
+            android:layout_width="match_parent"
+            android:layout_height="106dp"
+            android:layout_below="@+id/tvArti"
+            android:layout_marginTop="38dp"
+            ads:avColor="@color/av_light_blue"
+            ads:avDensity="0.175"
+            ads:avSpeed="normal"
+            ads:avType="fill" />
+
+        <ImageButton
+            android:id="@+id/btnplay"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/tvArti"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent"
+            android:src="@android:drawable/ic_media_play"/>
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Ll"
+        android:layout_marginTop="20dp"
+        android:background="@color/white_static" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="76dp"
+        android:layout_below="@+id/recData"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="167dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+</RelativeLayout>
